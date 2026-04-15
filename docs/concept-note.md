@@ -1,0 +1,9 @@
+# Concept Note
+
+## Greek Legal-Governance Knowledge Infrastructure for AI and Institutional Research
+
+The increasing public availability of legal and administrative documents does not automatically translate into their analytical usability. In the Greek context, a significant portion of legal and regulatory material remains accessible primarily in static PDF form, often dispersed across repositories and difficult to navigate in a systematic, cross-referential, and machine-usable way. This creates an important methodological challenge for contemporary research at the intersection of governance, public administration, institutional analysis, and AI-supported knowledge work.
+
+This component of the Algorithmic Governance, Risk & Institutional Resilience Lab (AGRIR-Lab) addresses that problem by examining how Greek legal and administrative texts can be transformed from document-based archives into structured, interlinked, and machine-readable knowledge infrastructure. The central premise is that the value of legal corpora for advanced research does not lie solely in digitization or extraction, but in the creation of a knowledge layer that improves navigability, preserves context, enables cross-referencing, and supports downstream analytical use in LLM-assisted environments.
+
+The component is positioned not as a finalized national legal information system, nor as a complete or authoritative representation of Greek law, but as an emerging methodological and research infrastructure direction within AGRIR-Lab. Its purpose is exploratory and developmental. It seeks to clarify how legal-governance corpora may be made more usable for institutional analysis, regulatory traceability, and AI-assisted public law research, while remaining attentive to the limitations of automated parsing, the complexity of legal interpretation, and the need for careful human oversight in the handling of legal materials.
