@@ -16,3 +16,13 @@ This file records the first document-priority matrix for the AGRIR-Lab component
 - This is the first working priority matrix.
 - The next version will connect each tier to specific document IDs from the document register.
 - Later versions will distinguish between working priority, publication priority, and coding priority.
+## First Processing Update
+
+### DOC-001 — PD 4/2018
+- status: uploaded
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
+
+### Note
+PD 4/2018 is the first document of the pilot corpus to move from repository intake to document-level analytical processing.
