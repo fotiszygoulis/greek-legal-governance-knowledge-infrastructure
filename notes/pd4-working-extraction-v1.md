@@ -128,3 +128,91 @@ The first mapping pass will connect:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Article 1 — Ministry Mission
+**Proposed codes**
+- institutional_actor
+- competence
+- transition_provision
+
+**Rationale**
+Article 1 defines the mission-level scope of the Ministry and preserves the original combined culture-sports logic of YPPOA.
+
+### Article 2 — Ministry Structure
+**Proposed codes**
+- institutional_actor
+- supervision
+- competence
+- transition_provision
+
+**Rationale**
+Article 2 defines the formal organizational architecture of the Ministry, including units under the Minister, secretariat layers, general directorates, and the original culture-sports structure.
+
+### Article 6 — Internal Audit
+**Proposed codes**
+- internal_audit
+- competence
+- supervision
+
+**Rationale**
+Article 6 establishes the internal audit function as a ministry-level control, legality, expenditure-review, risk-related, and investigation-relevant node.
+
+### Article 8 — Legislative Work and Parliamentary Control
+**Proposed codes**
+- competence
+- supervision
+- institutional_actor
+
+**Rationale**
+Article 8 defines the ministry’s internal legislative-processing, codification, consultation, parliamentary-control, and regulatory-support function.
+
+### Article 16 — General Directorate of Antiquities and Cultural Heritage
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+- museum_governance
+- transition_provision
+
+**Rationale**
+Article 16 defines the main heritage-governance architecture through central services, Ephorates of Antiquities, and special regional services.
+
+### Article 20 — National Archive of Monuments and Archaeological Cadastre
+**Proposed codes**
+- archive_and_documentation
+- competence
+- institutional_actor
+- supervision
+
+**Rationale**
+Article 20 establishes a documentation, registry, cadastre, digitization, standards, and digital-access node.
+
+### Article 21 — Documentation and Protection of Cultural Goods
+**Proposed codes**
+- anti_trafficking_and_protection
+- competence
+- institutional_actor
+- supervision
+- archive_and_documentation
+
+**Rationale**
+Article 21 defines the anti-illicit-trafficking, restitution, private-collections, antiquities-dealer, documentation, and legal-protection layer.
+
+## First Coding Summary
+### High-frequency codes
+- institutional_actor
+- competence
+- supervision
+
+### High-value specialized codes
+- internal_audit
+- archive_and_documentation
+- anti_trafficking_and_protection
+- museum_governance
+- transition_provision
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: ready for first pass
