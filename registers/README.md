@@ -14,4 +14,4 @@ The register layer is used to track:
 - working status
 
 ## Status
-This is the first pilot register structure and will be expanded gradually.
+This is the first pilot register structure and now includes the initial document register linked to the uploaded pilot corpus. It will be expanded gradually in later stages.
