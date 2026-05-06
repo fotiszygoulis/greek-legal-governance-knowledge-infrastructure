@@ -216,3 +216,55 @@ Article 21 defines the anti-illicit-trafficking, restitution, private-collection
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: ready for first pass
+## First Mapping Pass
+
+### A. Ministry-Level Nodes
+- Minister
+- units directly under the Minister
+- internal audit unit/function
+- legislative work and parliamentary control unit
+- strategic planning unit
+- international and EU relations unit
+
+### B. Central Heritage Governance Nodes
+- General Directorate of Antiquities and Cultural Heritage
+- Directorate of Prehistoric and Classical Antiquities
+- Directorate of Byzantine and Post-Byzantine Antiquities
+- Directorate of Archaeological Museums, Exhibitions and Educational Programmes
+- Directorate of the National Archive of Monuments
+- Directorate of Documentation and Protection of Cultural Goods
+- Directorate of Modern Cultural Heritage
+- Directorate of Conservation of Ancient and Modern Monuments
+- Secretariat of the Central Archaeological Council and Museum Council
+
+### C. Regional and Special Regional Nodes
+- 53 Ephorates of Antiquities
+- Ephorate of Underwater Antiquities
+- Ephorate of Palaeoanthropology and Speleology
+- special museum-related regional nodes in the original structure
+
+### D. Functional Governance Links
+- mission -> structure
+- structure -> competence
+- Minister -> autonomous units
+- General Directorate -> central directorates
+- General Directorate -> Ephorates of Antiquities
+- archive/documentation layer -> cadastre/digitization layer
+- protection layer -> anti-trafficking / restitution layer
+- internal audit layer -> legality / expenditure / investigation layer
+- legislative work layer -> consultation / codification / parliamentary control layer
+
+### E. First Mapping Insight
+PD 4/2018 functions as the main institutional blueprint linking:
+- policy mission
+- administrative structure
+- heritage governance
+- documentation infrastructure
+- protection and anti-trafficking functions
+- internal oversight
+- legal-processing support
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
