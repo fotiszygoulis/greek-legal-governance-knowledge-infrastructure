@@ -19,4 +19,5 @@ The corpus is organized to support:
 - resilience-oriented governance research
 
 ## Status
-This is the first pilot corpus structure and will be expanded gradually.
+## Status
+This is the first pilot corpus structure and has now been populated with an initial set of uploaded legal-governance documents. It will be expanded gradually in later stages.
