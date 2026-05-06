@@ -1,77 +1,33 @@
-# greek-legal-governance-knowledge-infrastructure
-AGRIR-Lab component for structured, linked, and LLM-usable Greek legal-governance corpora supporting oversight, regulatory traceability, and institutional research.
-# Greek Legal-Governance Knowledge Infrastructure
+# Greek Legal-Governance Knowledge Infrastructure for AI and Institutional Research
 
-This repository supports the **AGRIR-Lab** component **Greek Legal-Governance Knowledge Infrastructure for AI and Institutional Research**.
+This repository supports the AGRIR-Lab component **Greek Legal-Governance Knowledge Infrastructure for AI and Institutional Research**.
 
-It explores how Greek legal and administrative documents can be transformed from static PDF files into **structured, linked, and LLM-usable legal-governance corpora** for research on:
-
-- institutional oversight
-- regulatory traceability
-- governance-risk mapping
-- administrative competence analysis
-- AI-assisted public law research
-
-## Research Context
-
-This repository is developed within the:
-
-**Algorithmic Governance, Risk & Institutional Resilience Lab (AGRIR-Lab)**
-
-The broader purpose of this work is to improve the analytical usability of Greek legal and administrative texts in governance-oriented research environments by moving from document archives toward **structured and interlinked knowledge infrastructure**.
-
-## Scope
-
-This repository does **not** aim to present a complete or authoritative national legal information system.
-
-Instead, it serves as an **exploratory methodological and research infrastructure space** focused on:
-
-- PDF-to-markdown legal text transformation
-- segmentation into reusable legal-governance units
-- cross-document reference logic
-- governance-oriented corpus design
-- pilot support for institutional and oversight analysis
+Its purpose is to develop a structured legal-governance corpus and a first analytical infrastructure for institutional mapping, competence tracing, delegated authority analysis, internal audit relevance, and resilience-oriented governance research, with an initial focus on the Greek Ministry of Culture and its surrounding institutional environment.
 
 ## Repository Structure
 
-- `docs/` — conceptual and project-level documentation
-- `methodology/` — methodological notes and workflow descriptions
-- `samples/` — pilot examples and small illustrative materials
-- `notes/` — collaboration notes, research directions, and working memos
+### corpus
+Working legal-governance corpus organized into:
+- core normative corpus
+- institutional reconfiguration
+- delegations and decision flows
+- financial-administrative architecture
+- cross-cutting frameworks
 
-## Initial Documents
+### registers
+Working document tracking layer.
 
-The repository will progressively include:
+### outputs
+First analytical outputs, including institutional and competence mapping.
 
-- Concept Note
-- Methodological Note
-- Research Use Cases
-- Future Pilot Direction
-- Open Collaboration Note
-- pilot samples for legal-governance corpus design
+### methodology
+First methodological files, including coding schema development.
 
-## Collaboration
+### docs
+Public-facing conceptual and methodological notes.
 
-This repository is open to **serious methodological, academic, and technical dialogue** in areas such as:
-
-- legal-tech and legal NLP
-- document parsing and structured text workflows
-- Greek public law and administrative law
-- governance and institutional analysis
-- traceability and corpus design for AI-supported research
-
-Potential collaboration may include:
-
-- methodological exchange
-- pilot corpus co-development
-- legal-governance use-case design
-- advisory input on public law and institutional analysis
+### notes
+Working notes and supporting material.
 
 ## Current Status
-
-The project is currently in an **early but structured research infrastructure phase**.  
-At this stage, the focus is on conceptual clarity, methodological framing, and the preparation of a bounded pilot direction suitable for future collaboration.
-
-## License
-
-This repository is released under the MIT License.
+This repository is in its first pilot phase and is being developed gradually as part of AGRIR-Lab.
