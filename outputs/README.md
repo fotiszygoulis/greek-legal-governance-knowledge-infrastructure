@@ -15,4 +15,5 @@ The output layer is used to develop:
 - future governance-oriented analytical notes
 
 ## Status
-These are first working outputs and will be refined in later versions.
+These are the first working analytical outputs of the pilot corpus and will be refined, expanded, and connected to later mapping and coding stages.
+
