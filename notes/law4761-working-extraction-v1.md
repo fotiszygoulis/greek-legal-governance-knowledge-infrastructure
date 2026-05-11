@@ -122,3 +122,85 @@ The first decoding pass treats Law 4761/2020 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Legal Status and Mission
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+- transition_provision
+
+**Rationale**
+These provisions define ODAP as a distinct institutional actor with a public-law mission linked to cultural resource management and operational continuity.
+
+### Governance Structure
+**Proposed codes**
+- institutional_actor
+- supervision
+- competence
+
+**Rationale**
+These provisions define the Board, President, General Director, and the executive hierarchy of ODAP, as well as its supervisory relation to the Ministry.
+
+### Revenue and Resource Logic
+**Proposed codes**
+- financial_administration
+- competence
+- supervision
+
+**Rationale**
+These provisions establish the economic backbone of ODAP through ticketing, retail, publications, digital applications, property, refreshment facilities, and funding flows.
+
+### Visitor and Commercial Infrastructure
+**Proposed codes**
+- financial_administration
+- competence
+- museum_governance
+
+**Rationale**
+These provisions connect heritage administration with visitor-facing operations, public access infrastructure, and controlled commercial use of cultural resources.
+
+### Organizational Structure
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+- financial_administration
+
+**Rationale**
+These provisions define directorates, departments, support structures, and the internal administrative architecture of ODAP.
+
+### Staffing and Transition
+**Proposed codes**
+- transition_provision
+- competence
+- supervision
+
+**Rationale**
+These provisions regulate staffing categories, organizational posts, employment continuity, and the transition from the former TAP structure to ODAP.
+
+### Ministry-ODAP Interface
+**Proposed codes**
+- supervision
+- institutional_actor
+- competence
+
+**Rationale**
+These provisions define ODAP’s place within the broader institutional environment of the Ministry of Culture and its accountability relationship.
+
+## First Coding Summary
+### High-frequency codes
+- institutional_actor
+- competence
+- supervision
+
+### High-value specialized codes
+- financial_administration
+- museum_governance
+- transition_provision
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
