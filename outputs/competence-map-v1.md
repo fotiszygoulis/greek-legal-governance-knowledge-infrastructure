@@ -177,3 +177,43 @@ Law 4858/2021 organizes competence not only through direct protection rules, but
 
 ### First Competence Insight
 Law 4761/2020 distributes competence across governance, revenue generation, visitor services, internal administration, and transition management, making ODAP a key operational actor in the wider cultural-governance system.
+## Law 5021/2023 — First Competence Mapping Layer
+
+### Museum Governance Competence
+- establishment and operation of five museum NPDDs
+- Board-level governance competence
+- General Director executive competence
+- internal service and directorate competence
+- ministerial supervision relevance
+
+### Collections and Asset Competence
+- custody and exhibition competence
+- collection-management relevance
+- inventory and documentation relevance
+- public-asset use competence
+- continuity of operational responsibility
+
+### Staffing and Transition Competence
+- staffing allocation relevance
+- continuity of service through secondment logic
+- transition from former special regional services
+- first-appointment and first-board transition rules
+- continuity of pending programs and legal matters
+
+### State Indemnity Competence
+- competence for state indemnity requests
+- competence for cultural-goods mobility governance
+- covered-risk and covered-value assessment relevance
+- indemnity advisory-committee relevance
+- compensation and security-specification competence
+
+### ODAP and Wider Heritage-System Competence
+- ODAP operational and revenue-related competence amendments
+- museum-hour and event-related governance relevance
+- Acropolis Museum governance amendment relevance
+- council-composition amendment relevance
+- registry-based workforce governance relevance
+- prosecutorial and anti-illicit-trafficking relevance
+
+### First Competence Insight
+Law 5021/2023 distributes competence across museum governance, collections and asset management, staffing transition, state-indemnity administration, and wider heritage-system amendment logic, making it a major restructuring and coordination law within the pilot corpus.
