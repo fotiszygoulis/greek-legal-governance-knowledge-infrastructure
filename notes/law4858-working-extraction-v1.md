@@ -306,3 +306,71 @@ These provisions form the enforcement and sanctions layer of the Code, including
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Core Legal-Governance Nodes
+- cultural heritage
+- monuments
+- immovable monuments
+- movable monuments
+- archaeological sites
+- historical places
+- intangible cultural heritage
+
+### B. Documentation and Archive Nodes
+- National Archive of Monuments
+- registration and documentation functions
+- access-control conditions
+- inspection-reporting obligations
+- data-protection relevance
+
+### C. Permit and Approval Nodes
+- ministerial approval for works near monuments
+- approval for interventions on monuments
+- approval for archaeological research
+- approval for use and access-related activities
+- approval for export and movement-related actions
+
+### D. Protection Zone Nodes
+- archaeological site delimitation
+- temporary delimitation
+- Zone A protection
+- Zone B protection
+- settlement-sensitive archaeological regulation
+- underwater and maritime protection logic
+
+### E. Market, Transfer, and Anti-Trafficking Nodes
+- collectors
+- dealers
+- declaration obligations
+- import controls
+- export controls
+- return and restitution mechanisms
+- central authority relevance for returns
+- anti-illicit-trafficking protection
+
+### F. Research and Museum Nodes
+- archaeological research fieldwork
+- systematic excavations
+- rescue excavations
+- protection works
+- museums
+- public display relevance
+- heritage-institution interface
+
+### G. Advisory and Enforcement Nodes
+- Local Councils of Monuments
+- Central Archaeological Council
+- Central Council of Modern Monuments
+- Museum Council
+- criminal protection framework
+- Prosecutor for the Protection of Cultural Goods
+- legal-person liability relevance
+
+### H. First Mapping Insight
+Law 4858/2021 functions as the substantive legal backbone of the pilot corpus by linking protection rules, permit systems, documentation infrastructure, anti-trafficking controls, advisory governance, museum relevance, and criminal enforcement into a single heritage-governance framework.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
