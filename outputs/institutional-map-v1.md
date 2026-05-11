@@ -120,3 +120,45 @@ PD 4/2018 acts as the main organizational blueprint linking ministry-level autho
 
 ### First Institutional Logic
 Law 4858/2021 acts as the substantive legal backbone of the heritage-governance environment by connecting protection rules, institutional approvals, documentation infrastructure, advisory councils, museum law, anti-trafficking controls, and criminal enforcement.
+## Law 4761/2020 — First Institutional Mapping Layer
+
+### Core ODAP Institutional Nodes
+- ODAP
+- Board
+- President
+- Vice-President relevance
+- General Director
+- Ministry of Culture supervisory relation
+
+### Revenue and Resource Nodes
+- ticketing
+- retail and shop operations
+- replicas and publications
+- digital applications
+- refreshment facilities
+- property-management functions
+- donations, sponsorships, and grants
+
+### Visitor-Service and Public Interface Nodes
+- museum-related visitor services
+- archaeological-site service relevance
+- public access support
+- cultural consumption infrastructure
+- public-facing operational layer
+
+### Internal Organizational Nodes
+- internal directorates
+- departments
+- financial and administrative support units
+- legal support relevance
+- project and property-management units
+
+### Staffing and Transition Nodes
+- staffing categories
+- organizational posts
+- employment continuity
+- transition from TAP to ODAP
+- administrative continuity mechanisms
+
+### First Institutional Logic
+Law 4761/2020 positions ODAP as the operational and resource-management arm of the broader cultural-governance environment, linking governance, revenue architecture, visitor services, internal administration, and transition from the former TAP structure.
