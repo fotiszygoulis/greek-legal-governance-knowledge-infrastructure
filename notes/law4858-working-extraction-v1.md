@@ -173,3 +173,136 @@ The first decoding pass treats Law 4858/2021 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Articles 1-3 — Object, Definitions, and Content of Protection
+**Proposed codes**
+- competence
+- supervision
+- transition_provision
+
+**Rationale**
+These articles define the scope, public-interest logic, and substantive protection mission of the heritage regime.
+
+### Article 4 — National Archive of Monuments
+**Proposed codes**
+- archive_and_documentation
+- competence
+- supervision
+
+**Rationale**
+Article 4 establishes the archive, documentation, registration, inspection-reporting, and controlled-access logic of the heritage system.
+
+### Article 6 — Immovable Monuments
+**Proposed codes**
+- competence
+- supervision
+- permit_or_approval
+- transition_provision
+
+**Rationale**
+Article 6 defines the classification logic of immovable monuments, the characterization procedure, and the legal effects of pending protection.
+
+### Article 10 — Actions Affecting Monuments
+**Proposed codes**
+- permit_or_approval
+- competence
+- supervision
+
+**Rationale**
+Article 10 forms a central approval-control node for interventions, works, installations, and activity near monuments.
+
+### Articles 12-17A — Archaeological Sites and Protection Zones
+**Proposed codes**
+- permit_or_approval
+- competence
+- supervision
+- transition_provision
+
+**Rationale**
+These articles define delimitation, temporary delimitation, zone logic, settlement controls, underwater protection, and protection perimeters.
+
+### Article 20 — Movable Monuments
+**Proposed codes**
+- competence
+- supervision
+- anti_trafficking_and_protection
+- transition_provision
+
+**Rationale**
+Article 20 defines the legal structure of movable monuments and creates the baseline for later ownership, transfer, dealer, and protection regimes.
+
+### Articles 31-34 — Collectors, Dealers, Import/Export and Returns
+**Proposed codes**
+- anti_trafficking_and_protection
+- permit_or_approval
+- supervision
+- competence
+- archive_and_documentation
+
+**Rationale**
+These provisions regulate collectors, dealers, declarations, import/export controls, and return/restitution mechanisms.
+
+### Articles 35-44 — Archaeological Research and Protection Works
+**Proposed codes**
+- permit_or_approval
+- competence
+- supervision
+
+**Rationale**
+These provisions define excavation, research authorization, rescue archaeology, conservation works, and publication duties.
+
+### Article 45 — Museums
+**Proposed codes**
+- museum_governance
+- competence
+- supervision
+
+**Rationale**
+Article 45 creates the museum-law node of the Code and links heritage protection to institutional display and operation.
+
+### Article 46 — Access and Use
+**Proposed codes**
+- permit_or_approval
+- competence
+- supervision
+- museum_governance
+
+**Rationale**
+Article 46 structures public access, use permissions, photographic/filming relevance, and controlled cultural use of monuments and spaces.
+
+### Articles 49-52 — Collective Bodies
+**Proposed codes**
+- institutional_actor
+- supervision
+- competence
+
+**Rationale**
+These articles define the advisory governance layer through local and central councils and the Museum Council.
+
+### Articles 53-72 — Criminal Protection
+**Proposed codes**
+- anti_trafficking_and_protection
+- supervision
+- competence
+
+**Rationale**
+These provisions form the enforcement and sanctions layer of the Code, including illegal excavation, illegal trade, illegal export, and prosecutorial protection.
+
+## First Coding Summary
+### High-frequency codes
+- competence
+- supervision
+- permit_or_approval
+
+### High-value specialized codes
+- archive_and_documentation
+- anti_trafficking_and_protection
+- museum_governance
+- transition_provision
+- institutional_actor
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
