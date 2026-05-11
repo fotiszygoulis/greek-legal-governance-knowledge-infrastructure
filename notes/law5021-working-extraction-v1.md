@@ -132,3 +132,129 @@ The first decoding pass treats Law 5021/2023 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Part A — Museum NPDD Reform
+**Proposed codes**
+- institutional_actor
+- museum_governance
+- competence
+- supervision
+- transition_provision
+- financial_administration
+
+**Rationale**
+Part A creates the five museum NPDDs, defines their public-law status, purposes, resources, governance organs, internal services, staffing structure, and transition from the former service-based museum model.
+
+### Articles 1-5 — Establishment, Supervision, Purposes, Resources
+**Proposed codes**
+- institutional_actor
+- museum_governance
+- competence
+- supervision
+- financial_administration
+
+**Rationale**
+These provisions define the legal identity, ministerial supervision, mission, revenue architecture, and public-interest operation of the five museums.
+
+### Articles 6-18 — Board, General Director, Services
+**Proposed codes**
+- institutional_actor
+- museum_governance
+- competence
+- supervision
+
+**Rationale**
+These provisions establish the governance organs, Board powers, General Director role, internal services, and administrative hierarchy of the museum NPDDs.
+
+### Articles 19-20 — Collections and Assets
+**Proposed codes**
+- museum_governance
+- competence
+- archive_and_documentation
+- supervision
+- transition_provision
+
+**Rationale**
+These provisions regulate collections, public ownership logic, inventory and documentation relevance, transfer of assets, and continuity of museum operations.
+
+### Articles 21-30 — Staffing Architecture
+**Proposed codes**
+- competence
+- supervision
+- transition_provision
+- museum_governance
+
+**Rationale**
+These provisions create the staffing framework for the five museums and define their basic personnel architecture.
+
+### Articles 31-35 — Vacant Posts and Transition
+**Proposed codes**
+- transition_provision
+- supervision
+- competence
+
+**Rationale**
+These provisions govern abolition of old vacant posts, transitional governance, staffing continuity, legal succession, and the phased restructuring of museum administration.
+
+### Part B — State Indemnity for Mobility of Cultural Goods
+**Proposed codes**
+- permit_or_approval
+- competence
+- supervision
+- anti_trafficking_and_protection
+- museum_governance
+
+**Rationale**
+Part B introduces the state-indemnity framework for the movement and exhibition of cultural goods, including conditions, committees, risks, security specifications, and compensation logic.
+
+### Part C — ODAP Amendments
+**Proposed codes**
+- institutional_actor
+- financial_administration
+- competence
+- supervision
+- museum_governance
+
+**Rationale**
+Part C updates ODAP’s revenue, property, operating, visitor-service, governance, legal-support, and staffing framework.
+
+### Part D — Wider Ministry Amendments
+**Proposed codes**
+- competence
+- supervision
+- museum_governance
+- anti_trafficking_and_protection
+- institutional_actor
+- permit_or_approval
+
+**Rationale**
+Part D amends the wider governance environment through changes affecting the Acropolis Museum, councils, prosecutorial protection, illegal import rules, and the Archaeological Works Personnel Registry.
+
+### Part E — Authorization and Transitional Logic
+**Proposed codes**
+- transition_provision
+- competence
+- supervision
+
+**Rationale**
+These provisions support first implementation, temporary arrangements, delegated regulation, and continuity of operation during institutional change.
+
+## First Coding Summary
+### High-frequency codes
+- institutional_actor
+- competence
+- supervision
+- transition_provision
+
+### High-value specialized codes
+- museum_governance
+- financial_administration
+- permit_or_approval
+- archive_and_documentation
+- anti_trafficking_and_protection
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
