@@ -37,3 +37,88 @@ Primary coding categories expected:
 
 ## Note
 This is the third document-level working extraction file and will be expanded gradually.
+## First Decoding Pass
+
+### A. Article-Level Priority Nodes
+- legal establishment and legal status of ODAP
+- purpose and mission of ODAP
+- board structure and executive leadership
+- powers of the Board
+- powers of the President and General Director
+- revenue sources
+- ticketing and visitor-services relevance
+- retail, replicas, publications, and digital applications
+- refreshment facilities and property-management relevance
+- internal directorate structure
+- staffing and organizational positions
+- transition from TAP to ODAP
+- relationship with the Ministry of Culture
+
+### B. First Legal-Structural Extraction
+#### Legal Status and Mission
+Initial decoding focus:
+- ODAP as institutional actor
+- public-law organizational status
+- relationship to cultural resources management
+- public mission and operational mission
+
+#### Governance Structure
+Initial decoding focus:
+- Board composition
+- President
+- Vice-President relevance
+- General Director
+- internal executive hierarchy
+- ministry supervision relevance
+
+#### Revenue and Resource Logic
+Initial decoding focus:
+- ticket revenues
+- sales and retail revenues
+- replica and publication revenues
+- digital application revenues
+- property and refreshment-facility revenues
+- donations, sponsorships, grants, and other income streams
+
+#### Visitor and Commercial Infrastructure
+Initial decoding focus:
+- archaeological sites and museum visitor-service logic
+- shop operations
+- refreshment-facility management
+- public-facing cultural consumption infrastructure
+- pricing and access-related governance relevance
+
+#### Organizational Structure
+Initial decoding focus:
+- directorates and departments
+- internal administrative architecture
+- financial and operational support units
+- legal support relevance
+- property and project-management relevance
+
+#### Staffing and Transition
+Initial decoding focus:
+- staffing categories
+- organizational posts
+- employment continuity
+- transition from former TAP structure
+- implementation and administrative continuity
+
+#### Ministry-ODAP Interface
+Initial decoding focus:
+- supervisory relation with the Ministry
+- governance dependency
+- public-law accountability relevance
+- institutional coordination with broader heritage governance
+
+### C. First Decoding Logic
+The first decoding pass treats Law 4761/2020 as:
+- the governance and resource-management law of ODAP
+- the economic and visitor-services backbone of cultural administration
+- a bridge between heritage governance and operational resource exploitation
+- a key transition document in public cultural resource management
+
+### D. Working Status Update
+- decoding: in progress
+- coding: pending first pass
+- mapping: pending first pass
