@@ -78,3 +78,45 @@ PD 4/2018 acts as the main organizational blueprint linking ministry-level autho
 - This is the first structural mapping placeholder.
 - Detailed actor-to-actor mapping will be added in the next version.
 - The next stage will connect documents in the register to specific institutional nodes.
+## Law 4858/2021 — First Institutional Mapping Layer
+
+### Core Heritage-Regime Nodes
+- cultural heritage
+- monuments
+- immovable monuments
+- movable monuments
+- archaeological sites
+- historical places
+- intangible cultural heritage
+
+### Documentation and Archive Nodes
+- National Archive of Monuments
+- documentation and registration layer
+- inspection-reporting relevance
+- controlled access to archive data
+
+### Governance and Advisory Nodes
+- Ministry-level approval role
+- Local Councils of Monuments
+- Central Archaeological Council
+- Central Council of Modern Monuments
+- Museum Council
+
+### Research, Museum, and Protection Nodes
+- archaeological research
+- rescue excavations
+- monument protection works
+- museums
+- access and use regulation
+- imaging and permissions relevance
+
+### Anti-Trafficking and Enforcement Nodes
+- collectors
+- dealers
+- import/export control
+- return and restitution mechanisms
+- Prosecutor for the Protection of Cultural Goods
+- criminal protection framework
+
+### First Institutional Logic
+Law 4858/2021 acts as the substantive legal backbone of the heritage-governance environment by connecting protection rules, institutional approvals, documentation infrastructure, advisory councils, museum law, anti-trafficking controls, and criminal enforcement.
