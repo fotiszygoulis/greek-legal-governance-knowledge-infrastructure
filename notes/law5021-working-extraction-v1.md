@@ -258,3 +258,68 @@ These provisions support first implementation, temporary arrangements, delegated
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Museum NPDD Reform Nodes
+- National Archaeological Museum NPDD
+- Archaeological Museum of Thessaloniki NPDD
+- Archaeological Museum of Heraklion NPDD
+- Byzantine and Christian Museum NPDD
+- Museum of Byzantine Culture NPDD
+- Minister of Culture supervisory role
+- former special regional museum services under PD 4/2018
+
+### B. Governance and Executive Nodes
+- Board of each museum NPDD
+- President
+- Vice-President relevance
+- General Director
+- internal directorates
+- legal-support office
+- internal service architecture
+
+### C. Collections, Assets, and Operational Continuity Nodes
+- museum collections
+- public ownership of movable monuments
+- asset transfer and use
+- inventory and documentation relevance
+- continuity of pending programs
+- continuity of pending legal cases
+- continuity of staff service through secondment logic
+
+### D. State Indemnity and Cultural-Goods Mobility Nodes
+- state indemnity framework
+- indemnity advisory committee
+- covered goods
+- covered risks
+- covered value
+- security specifications
+- compensation procedure
+- museums as applicants or hosting entities
+
+### E. ODAP and Operational Resource Nodes
+- ODAP
+- simple copies production
+- immovable-property exploitation
+- refreshment-facility lease logic
+- Board competences
+- visiting hours and out-of-hours cultural events
+- staffing and directorate amendments
+
+### F. Wider Heritage Governance Amendment Nodes
+- Acropolis Museum governance amendments
+- Local Councils of Monuments
+- Central Archaeological Council
+- Museum Council
+- central authority for return rules
+- illegal import under EU framework
+- Prosecutor for the Protection of Cultural Goods in Thessaloniki
+- Archaeological Works Personnel Registry
+
+### G. First Mapping Insight
+Law 5021/2023 maps a transition from service-based museum administration to NPDD-based museum governance, while also linking indemnity mechanisms, ODAP operational reform, council composition, prosecutorial protection, and registry-based workforce governance into the wider cultural-governance environment.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
