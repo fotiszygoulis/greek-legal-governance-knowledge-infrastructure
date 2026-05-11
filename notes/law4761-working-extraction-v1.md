@@ -204,3 +204,58 @@ These provisions define ODAP’s place within the broader institutional environm
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Core ODAP Institutional Nodes
+- ODAP
+- Board
+- President
+- Vice-President relevance
+- General Director
+- Ministry of Culture supervisory relation
+
+### B. Revenue and Resource Nodes
+- ticketing
+- retail and shop operations
+- replicas and publications
+- digital applications
+- refreshment facilities
+- property-management functions
+- donations, sponsorships, and grants
+- revenue-flow relevance
+
+### C. Visitor-Service and Public Interface Nodes
+- museum-related visitor services
+- archaeological-site service relevance
+- public access support
+- cultural consumption infrastructure
+- public-facing operational layer
+
+### D. Internal Organizational Nodes
+- internal directorates
+- departments
+- financial and administrative support units
+- legal support relevance
+- project and property-management units
+
+### E. Staffing and Transition Nodes
+- staffing categories
+- organizational posts
+- employment continuity
+- transition from TAP to ODAP
+- administrative continuity mechanisms
+
+### F. Ministry-ODAP Interface Nodes
+- supervision by the Ministry
+- governance dependency
+- accountability relevance
+- coordination with broader heritage governance
+- institutional support to museum and site operations
+
+### G. First Mapping Insight
+Law 4761/2020 maps ODAP as the operational and resource-management arm of the broader cultural-governance environment, linking governance, revenue architecture, visitor services, internal administration, and transition from the former TAP structure.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
