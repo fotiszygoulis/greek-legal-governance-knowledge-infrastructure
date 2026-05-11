@@ -162,3 +162,53 @@ Law 4858/2021 acts as the substantive legal backbone of the heritage-governance 
 
 ### First Institutional Logic
 Law 4761/2020 positions ODAP as the operational and resource-management arm of the broader cultural-governance environment, linking governance, revenue architecture, visitor services, internal administration, and transition from the former TAP structure.
+## Law 5021/2023 — First Institutional Mapping Layer
+
+### Museum NPDD Reform Nodes
+- National Archaeological Museum NPDD
+- Archaeological Museum of Thessaloniki NPDD
+- Archaeological Museum of Heraklion NPDD
+- Byzantine and Christian Museum NPDD
+- Museum of Byzantine Culture NPDD
+- Minister of Culture supervisory role
+- transition from former special regional museum services under PD 4/2018
+
+### Governance and Executive Nodes
+- Board of each museum NPDD
+- President
+- Vice-President relevance
+- General Director
+- internal directorates
+- legal-support office
+- internal service architecture
+
+### Collections, Assets, and Continuity Nodes
+- museum collections
+- public ownership of movable monuments
+- asset-transfer and use logic
+- inventory and documentation relevance
+- continuity of pending programs
+- continuity of pending legal cases
+- staffing continuity through secondment logic
+
+### State Indemnity and Mobility Nodes
+- state indemnity framework
+- indemnity advisory committee
+- covered goods
+- covered risks
+- covered value
+- security specifications
+- compensation procedure
+- museums as applicants or hosting entities
+
+### Wider Heritage Governance Nodes
+- ODAP amendments
+- Acropolis Museum amendments
+- Local Councils of Monuments
+- Central Archaeological Council
+- Museum Council
+- Prosecutor for the Protection of Cultural Goods in Thessaloniki
+- Archaeological Works Personnel Registry
+
+### First Institutional Logic
+Law 5021/2023 positions museum NPDD reform within a broader governance transition that also connects indemnity mechanisms, ODAP adjustments, council composition, prosecutorial protection, and registry-based workforce governance.
