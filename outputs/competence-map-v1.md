@@ -91,3 +91,51 @@ This file records the first competence-mapping layer for the AGRIR-Lab component
 
 ### First Competence Insight
 PD 4/2018 distributes competences across ministry-level units, central heritage directorates, and regional archaeological services, creating a layered governance architecture rather than a single centralized competence model.
+## Law 4858/2021 — First Competence Mapping Layer
+
+### Heritage Protection Competence
+- definition and classification of cultural heritage
+- immovable monument protection
+- movable monument protection
+- archaeological site regulation
+- historical place protection
+- intangible heritage protection relevance
+
+### Documentation and Archive Competence
+- registration of monuments
+- documentation standards
+- National Archive of Monuments governance
+- controlled access to archive data
+- inspection-reporting relevance
+
+### Permit and Approval Competence
+- approval of interventions near monuments
+- approval of works affecting monuments
+- approval of archaeological research
+- approval of access and use conditions
+- approval of import/export-related actions
+
+### Market, Transfer, and Anti-Trafficking Competence
+- collectors regulation
+- dealers regulation
+- declaration obligations
+- import and export control
+- return and restitution procedures
+- anti-illicit-trafficking competence
+
+### Museum and Access Competence
+- museum establishment and operation relevance
+- access to monuments and sites
+- use permissions
+- photography and filming relevance
+- cultural event and public-use relevance
+
+### Advisory and Enforcement Competence
+- advisory competence of councils
+- criminal protection logic
+- prosecutorial protection relevance
+- legal-person liability relevance
+- sanctions and enforcement competence
+
+### First Competence Insight
+Law 4858/2021 organizes competence not only through direct protection rules, but also through documentation, approvals, market control, anti-trafficking measures, advisory governance, museum regulation, and criminal enforcement.
