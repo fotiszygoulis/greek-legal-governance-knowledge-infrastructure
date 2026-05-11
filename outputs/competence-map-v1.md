@@ -139,3 +139,41 @@ PD 4/2018 distributes competences across ministry-level units, central heritage 
 
 ### First Competence Insight
 Law 4858/2021 organizes competence not only through direct protection rules, but also through documentation, approvals, market control, anti-trafficking measures, advisory governance, museum regulation, and criminal enforcement.
+## Law 4761/2020 — First Competence Mapping Layer
+
+### Governance Competence
+- ODAP governance authority
+- Board-level decision competence
+- executive leadership competence
+- supervisory linkage to the Ministry of Culture
+
+### Revenue and Financial Competence
+- ticketing competence
+- retail and publication competence
+- digital applications competence
+- refreshment-facility competence
+- property-management competence
+- sponsorship and donation handling relevance
+- revenue-flow and resource-management competence
+
+### Visitor-Service Competence
+- visitor-service support competence
+- archaeological-site service competence
+- museum-related service competence
+- public-facing cultural access support
+
+### Organizational and Administrative Competence
+- directorate-level administrative competence
+- financial and operational support competence
+- legal-support relevance
+- project and property-management competence
+
+### Staffing and Transition Competence
+- staffing allocation relevance
+- organizational-post competence
+- employment continuity relevance
+- transition from TAP to ODAP
+- institutional continuity mechanisms
+
+### First Competence Insight
+Law 4761/2020 distributes competence across governance, revenue generation, visitor services, internal administration, and transition management, making ODAP a key operational actor in the wider cultural-governance system.
