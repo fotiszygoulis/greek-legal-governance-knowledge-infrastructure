@@ -98,3 +98,70 @@ The first decoding pass treats this internal-audit text as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Internal Audit Unit Establishment Logic
+**Proposed codes**
+- internal_audit
+- institutional_actor
+- competence
+- oversight_architecture
+
+**Rationale**
+These provisions define the formal establishment of the Internal Audit Unit, its legal basis, and its institutional identity inside the ministry structure.
+
+### Institutional Placement Logic
+**Proposed codes**
+- institutional_actor
+- supervision
+- oversight_architecture
+- competence
+
+**Rationale**
+These provisions clarify where the Internal Audit Unit is placed administratively, how it relates to ministry leadership, and how reporting lines are structured.
+
+### Audit Mission and Function Logic
+**Proposed codes**
+- internal_audit
+- competence
+- control_flow
+- oversight_architecture
+
+**Rationale**
+These provisions concern audit competence, internal control relevance, assurance and advisory role, and the place of audit activity within governance and risk-management logic.
+
+### Supervised Entities Logic
+**Proposed codes**
+- internal_audit
+- supervision
+- competence
+- oversight_architecture
+
+**Rationale**
+These provisions address whether and how supervised entities fall within audit relevance and how the audit function connects to the broader ministry oversight chain.
+
+### Oversight and Control Logic
+**Proposed codes**
+- control_flow
+- internal_audit
+- supervision
+- oversight_architecture
+
+**Rationale**
+These provisions distinguish internal audit from ordinary administrative support and clarify its role in control flow, oversight architecture, and institutional assurance.
+
+## First Coding Summary
+### High-frequency codes
+- internal_audit
+- competence
+- oversight_architecture
+
+### High-value specialized codes
+- control_flow
+- institutional_actor
+- supervision
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
