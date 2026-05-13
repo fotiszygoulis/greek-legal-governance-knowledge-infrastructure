@@ -287,3 +287,37 @@ PD 77/2023 reorganizes competence by removing the entire sports branch from the 
 
 ### First Competence Insight
 PD 84/2019 reorganizes internal ministerial competence by creating a dual-secretariat structure, separating heritage governance from contemporary-culture governance, and concentrating key financial and administrative support functions at ministerial level.
+## FEK B912 Delegation Text — First Competence Mapping Layer
+
+### Delegation Competence
+- delegation of competences from central ministry level
+- delegated authority to regional services
+- competence transfer logic from center to region
+- distinction between retained central authority and delegated regional exercise
+
+### Regional Implementation Competence
+- regional implementation competence
+- regional execution of administrative acts
+- regional handling of delegated matters
+- territorial exercise of delegated authority
+
+### Signature and Administrative-Act Competence
+- signature authority relevance
+- approval-related delegated competence
+- execution-related delegated competence
+- administrative-act production relevance
+
+### Supervision and Control Competence
+- continued central supervision after delegation
+- hierarchical oversight relevance
+- reporting-line relevance
+- dependency of regional exercise on central governance
+
+### Limits and Conditions Competence
+- exclusions from delegation
+- retained central competences
+- conditional exercise of delegated authority
+- boundaries of regional action
+
+### First Competence Insight
+This delegation text reorganizes competence not by creating a new institutional structure, but by redistributing the exercise of authority between the ministry center and regional services while preserving supervision and control.
