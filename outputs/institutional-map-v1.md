@@ -396,3 +396,45 @@ PD 32/2022 adds the internal support architecture layer of the pilot corpus by s
 
 ### First Institutional Logic
 This internal-audit text adds the oversight architecture layer of the pilot corpus by showing where internal audit is placed, what role it performs, how it relates to leadership and supervised entities, and how it differs from ordinary support and hierarchical supervision.
+## 2022 Internal Audit Circular — First Institutional Mapping Layer
+
+### Core Internal Audit Workflow Nodes
+- Internal Audit Unit operational role
+- audit workflow relevance
+- audit planning relevance
+- audit execution relevance
+- reporting relevance
+- follow-up relevance
+
+### Operational Clarification Nodes
+- practical interpretation of internal audit activity
+- bridge between formal audit establishment and practical operation
+- implementation-level audit role
+- distinction between formal structure and operational workflow
+
+### Planning and Programming Nodes
+- audit planning
+- prioritization relevance
+- periodic audit-program relevance
+- connection between planning and ministry oversight needs
+
+### Reporting and Follow-Up Nodes
+- reporting outputs
+- communication of findings
+- follow-up monitoring
+- implementation review relevance
+- relation between audit results and ministry leadership
+
+### Internal Control Relation Nodes
+- relation between internal audit and internal control
+- distinction between audit review and ordinary administrative support
+- assurance relevance
+- control-flow relevance
+
+### Supervised Entities Nodes
+- supervised entities within audit workflow relevance
+- extension of audit activity beyond core ministry units
+- relation between ministry audit logic and supervised-body oversight
+
+### First Institutional Logic
+This internal-audit circular adds the implementation-level audit workflow layer of the pilot corpus by showing how planning, execution, reporting, follow-up, and internal-control review operate in practice inside the ministry system.
