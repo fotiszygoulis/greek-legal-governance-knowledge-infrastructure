@@ -150,7 +150,58 @@ Article 16 determines the timing of institutional effect and therefore the legal
 - supervision
 - delegation
 - financial_administration
+## First Mapping Pass
 
+### A. Core Institutional Reconfiguration Nodes
+- Ministry of Culture
+- former Ministry of Culture and Sports
+- Ministry of Education, Religious Affairs and Sports
+- General Secretariat of Sports
+- post-June-2023 ministerial separation logic
+
+### B. Transferred Sports Governance Nodes
+- sports competences
+- sports-related service units
+- sports-related staff positions
+- sports-related supervised entities
+- legal-support unit for sports matters
+- press and public-relations support for sports matters
+- parliamentary-control support for sports matters
+- internal-audit support for sports matters
+- Professional Sports Committee secretariat support
+
+### C. Competence-Boundary Nodes
+- removal of sports branch from Ministry of Culture
+- redefinition of Ministry of Culture competence perimeter
+- separation of culture governance from sports governance
+- new post-transfer institutional boundary
+
+### D. Transitional Continuity Nodes
+- continuity of competent minister references
+- continuity of competent authority references
+- continuity of service-council jurisdiction
+- continuity of disciplinary jurisdiction
+- continuity of administrative support
+- continuity of financial support
+- continuity of budgetary burden during transition
+
+### E. Internal Placement Flexibility Nodes
+- possible reassignment of units under existing general secretaries
+- ministerial discretion for internal placement
+- final transitional placement logic
+
+### F. Temporal Effect Nodes
+- entry into force upon publication
+- immediate institutional effect
+- timing relevance for post-2023 architecture mapping
+
+### G. First Mapping Insight
+PD 77/2023 maps the formal separation of culture and sports governance by redefining the Ministry of Culture as a culture-only ministry, transferring the entire sports governance branch elsewhere, and preserving administrative continuity during the transition.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
 ## Working Status Update
 - decoding: first pass completed
 - coding: first pass completed
