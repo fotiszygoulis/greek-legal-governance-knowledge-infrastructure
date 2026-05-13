@@ -253,3 +253,37 @@ Law 5021/2023 distributes competence across museum governance, collections and a
 
 ### First Competence Insight
 PD 77/2023 reorganizes competence by removing the entire sports branch from the Ministry of Culture, redefining the ministry’s competence perimeter, and preserving administrative and financial continuity during the transition.
+## PD 84/2019 — First Competence Mapping Layer
+
+### Secretariat-Level Competence Reset
+- General Secretariat of Culture competence
+- General Secretariat of Contemporary Culture competence
+- post-2019 internal competence redistribution
+- dual-secretariat governance relevance
+
+### Heritage-Governance Competence
+- antiquities and cultural heritage competence
+- archaeological-service competence
+- museum and special regional service competence
+- restoration, museums, and technical-works competence
+- central archaeological and museum-council secretariat relevance
+- modern-monuments secretariat relevance
+
+### Contemporary-Culture Competence
+- contemporary-culture policy competence
+- General Directorate of Contemporary Culture competence
+- internal differentiation from heritage-governance branch
+
+### Minister-Centered Support Competence
+- financial-services competence under the Minister
+- administrative-support competence under the Minister
+- electronic-governance support competence under the Minister
+- support and control capacity at ministerial level
+
+### Internal Reporting and Placement Competence
+- competence split between heritage and contemporary culture
+- competence relocation outside the former general secretariat model
+- ministerial flexibility in re-placing units under existing general secretaries
+
+### First Competence Insight
+PD 84/2019 reorganizes internal ministerial competence by creating a dual-secretariat structure, separating heritage governance from contemporary-culture governance, and concentrating key financial and administrative support functions at ministerial level.
