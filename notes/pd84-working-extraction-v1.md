@@ -149,3 +149,51 @@ Article 20 determines the legal starting point of the reconfigured secretariat s
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Core Secretariat Reconfiguration Nodes
+- Ministry of Culture and Sports
+- General Secretariat of Culture
+- General Secretariat of Contemporary Culture
+- former General Secretariat of the Ministry
+- post-2019 secretariat restructuring logic
+
+### B. Heritage-Governance Nodes
+- General Directorate of Antiquities and Cultural Heritage
+- Acropolis Monuments Conservation Service (YSMA)
+- Central Archaeological Council and Museum Council secretariat
+- Ephorates of Antiquities
+- Ephorate of Underwater Antiquities
+- Ephorate of Palaeoanthropology and Speleology
+- special regional museum services
+- General Directorate of Restoration, Museums and Technical Works
+- Central Council of Modern Monuments secretariat
+
+### C. Contemporary-Culture Nodes
+- General Directorate of Contemporary Culture
+- contemporary-culture competence branch
+- institutional separation from heritage-governance branch
+
+### D. Minister-Centered Support Nodes
+- General Directorate of Financial Services
+- General Directorate of Administrative Support and Electronic Governance
+- direct subordination to the Minister
+- minister-level support and control capacity
+
+### E. Internal Reporting-Line Nodes
+- split between heritage governance and contemporary culture
+- support functions placed outside the former general secretariat model
+- new post-2019 reporting-line structure
+
+### F. Transitional Flexibility Nodes
+- re-placement of units under existing general secretaries
+- ministerial discretion in unit placement
+- continuity during secretariat restructuring
+
+### G. Temporal Effect Nodes
+- entry into force upon publication
+- immediate legal effect
+- timing relevance for post-2019 institutional mapping
+
+### H. First Mapping Insight
+PD 84/2019 maps the Ministry of Culture and Sports into a dual-secretariat structure, separating heritage governance from contemporary-culture governance while moving key financial and administrative support functions into direct ministerial control.
