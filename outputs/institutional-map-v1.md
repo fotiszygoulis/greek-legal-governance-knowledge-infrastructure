@@ -249,3 +249,41 @@ Law 5021/2023 positions museum NPDD reform within a broader governance transitio
 
 ### First Institutional Logic
 PD 77/2023 functions as the formal institutional separation decree between culture and sports governance, redefining the Ministry of Culture as a culture-only ministry and preserving continuity during the transfer phase.
+## PD 84/2019 — First Institutional Mapping Layer
+
+### Core Secretariat Reconfiguration Nodes
+- Ministry of Culture and Sports
+- General Secretariat of Culture
+- General Secretariat of Contemporary Culture
+- former General Secretariat of the Ministry
+- post-2019 secretariat restructuring logic
+
+### Heritage-Governance Nodes
+- General Directorate of Antiquities and Cultural Heritage
+- Acropolis Monuments Conservation Service (YSMA)
+- Central Archaeological Council and Museum Council secretariat
+- Ephorates of Antiquities
+- Ephorate of Underwater Antiquities
+- Ephorate of Palaeoanthropology and Speleology
+- special regional museum services
+- General Directorate of Restoration, Museums and Technical Works
+- Central Council of Modern Monuments secretariat
+
+### Contemporary-Culture Nodes
+- General Directorate of Contemporary Culture
+- contemporary-culture competence branch
+- institutional separation from heritage-governance branch
+
+### Minister-Centered Support Nodes
+- General Directorate of Financial Services
+- General Directorate of Administrative Support and Electronic Governance
+- direct subordination to the Minister
+- minister-level support and control capacity
+
+### Internal Reporting-Line Nodes
+- split between heritage governance and contemporary culture
+- support functions placed outside the former general secretariat model
+- new post-2019 reporting-line structure
+
+### First Institutional Logic
+PD 84/2019 restructures the Ministry of Culture and Sports into a dual-secretariat model, separating heritage governance from contemporary-culture governance while moving key financial and administrative support functions into direct ministerial control.
