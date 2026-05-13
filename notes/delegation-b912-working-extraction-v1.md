@@ -37,3 +37,71 @@ Primary coding categories expected:
 
 ## Note
 This is the first working extraction file of the second analytical wave and will be expanded gradually.
+## First Decoding Pass
+
+### A. First Document-Level Priority Nodes
+- delegating authority
+- receiving regional services
+- delegated competences
+- signature authority relevance
+- implementation authority relevance
+- exclusions or reserved competences
+- territorial application relevance
+- administrative continuity relevance
+- supervision and reporting relevance
+
+### B. First Legal-Structural Extraction
+#### Delegating Authority Logic
+Initial decoding focus:
+- which central authority delegates
+- legal basis of delegation
+- scope of transferred authority
+- distinction between central retention and regional exercise
+
+#### Regional Service Logic
+Initial decoding focus:
+- which regional services receive delegated competences
+- territorial or service-level distribution
+- implementation role of regional actors
+- relationship with existing ministry structure
+
+#### Delegated Competence Logic
+Initial decoding focus:
+- approval competence relevance
+- execution competence relevance
+- signature competence relevance
+- administrative act production relevance
+- practical implementation competence
+
+#### Limits and Conditions Logic
+Initial decoding focus:
+- competences not delegated
+- conditions or exceptions
+- cases requiring return to central authority
+- boundaries of delegated action
+
+#### Supervision and Reporting Logic
+Initial decoding focus:
+- continued central supervision
+- reporting-line relevance
+- hierarchical control relevance
+- review or oversight relevance
+
+#### Administrative Continuity Logic
+Initial decoding focus:
+- continuity of administrative handling
+- continuity of service delivery
+- support for implementation chain
+- relation to broader ministry governance
+
+### C. First Decoding Logic
+The first decoding pass treats this delegation text as:
+- a center-to-region competence transfer document
+- an implementation-chain clarification text
+- a signature and execution authority document
+- a bridge between formal ministry structure and practical regional administration
+
+### D. Working Status Update
+- decoding: in progress
+- coding: pending first pass
+- mapping: pending first pass
