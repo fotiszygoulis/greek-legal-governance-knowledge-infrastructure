@@ -105,3 +105,86 @@ The first decoding pass treats this delegation text as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Delegating Authority Logic
+**Proposed codes**
+- delegation
+- competence
+- supervision
+- institutional_actor
+
+**Rationale**
+These provisions define the central authority that delegates competences, the legal basis of delegation, and the relationship between retained central authority and delegated regional exercise.
+
+### Regional Service Logic
+**Proposed codes**
+- institutional_actor
+- competence
+- regional_implementation
+- supervision
+
+**Rationale**
+These provisions identify the regional services that receive delegated competences and establish their place within the implementation chain.
+
+### Delegated Competence Logic
+**Proposed codes**
+- delegation
+- competence
+- regional_implementation
+
+**Rationale**
+These provisions concern the practical content of delegated authority, including execution competence, signature relevance, administrative-act production, and implementation role.
+
+### Signature Authority Logic
+**Proposed codes**
+- delegation
+- competence
+- supervision
+
+**Rationale**
+These provisions clarify who signs, under what delegated authority, and within what limits signature competence may be exercised.
+
+### Limits and Conditions Logic
+**Proposed codes**
+- delegation
+- competence
+- supervision
+- transition_provision
+
+**Rationale**
+These provisions define exclusions, exceptions, reservations of central authority, and the boundaries of delegated action.
+
+### Supervision and Reporting Logic
+**Proposed codes**
+- supervision
+- competence
+- institutional_actor
+
+**Rationale**
+These provisions preserve hierarchical control, reporting lines, and the continuing supervisory role of central ministry structures.
+
+### Administrative Continuity Logic
+**Proposed codes**
+- transition_provision
+- regional_implementation
+- competence
+
+**Rationale**
+These provisions support continuity of administrative handling, service delivery, and implementation flow between center and region.
+
+## First Coding Summary
+### High-frequency codes
+- delegation
+- competence
+- supervision
+
+### High-value specialized codes
+- regional_implementation
+- institutional_actor
+- transition_provision
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
