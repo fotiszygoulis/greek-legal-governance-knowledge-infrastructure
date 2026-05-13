@@ -105,3 +105,80 @@ The first decoding pass treats this circular as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Operational Clarification Logic
+**Proposed codes**
+- internal_audit
+- competence
+- oversight_architecture
+- audit_workflow
+
+**Rationale**
+These provisions clarify the practical role of the Internal Audit Unit and connect formal establishment with operational audit activity.
+
+### Audit Workflow Logic
+**Proposed codes**
+- internal_audit
+- audit_workflow
+- control_flow
+- competence
+
+**Rationale**
+These provisions structure the workflow of audit activity, including sequence, execution flow, reporting flow, and follow-up logic.
+
+### Audit Planning Logic
+**Proposed codes**
+- internal_audit
+- competence
+- audit_workflow
+- supervision
+
+**Rationale**
+These provisions concern audit planning, prioritization, periodic programming, and the relation between planning and ministry oversight needs.
+
+### Reporting and Follow-Up Logic
+**Proposed codes**
+- audit_workflow
+- control_flow
+- supervision
+- oversight_architecture
+
+**Rationale**
+These provisions clarify reporting outputs, communication of findings, follow-up monitoring, and the connection between audit results and ministry leadership.
+
+### Internal Control Relation Logic
+**Proposed codes**
+- internal_audit
+- control_flow
+- oversight_architecture
+- competence
+
+**Rationale**
+These provisions explain how internal audit relates to internal control and distinguish audit review from ordinary administrative support.
+
+### Supervised Entities Logic
+**Proposed codes**
+- internal_audit
+- supervision
+- oversight_architecture
+- competence
+
+**Rationale**
+These provisions address the audit relevance of supervised entities and the extension of audit logic beyond core ministry units.
+
+## First Coding Summary
+### High-frequency codes
+- internal_audit
+- competence
+- audit_workflow
+
+### High-value specialized codes
+- control_flow
+- oversight_architecture
+- supervision
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
