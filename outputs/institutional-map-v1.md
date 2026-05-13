@@ -360,3 +360,39 @@ This delegation text adds the implementation layer of the pilot corpus by showin
 
 ### First Institutional Logic
 PD 32/2022 adds the internal support architecture layer of the pilot corpus by showing how financial administration, administrative processing, support flow, and control are distributed across central and service-level ministry structures.
+## FEK B204 Internal Audit Text — First Institutional Mapping Layer
+
+### Core Internal Audit Nodes
+- Internal Audit Unit
+- ministry leadership relation
+- reporting-line relevance
+- audit mission relevance
+- internal control relevance
+
+### Institutional Placement Nodes
+- placement of the Internal Audit Unit inside the ministry structure
+- relation to central ministry authority
+- organizational independence relevance
+- bridge between governance structure and audit activity
+
+### Audit Function Nodes
+- audit competence
+- assurance relevance
+- advisory relevance
+- internal control review relevance
+- governance and risk-management relevance
+
+### Supervised Entities Nodes
+- supervised entities within audit relevance
+- relation between ministry oversight and entity-level audit relevance
+- extension of audit visibility beyond core ministry units
+
+### Oversight and Control Nodes
+- distinction between internal audit and ordinary administrative support
+- distinction between internal audit and hierarchical supervision
+- control-flow relevance
+- oversight-chain relevance
+- institutional assurance role
+
+### First Institutional Logic
+This internal-audit text adds the oversight architecture layer of the pilot corpus by showing where internal audit is placed, what role it performs, how it relates to leadership and supervised entities, and how it differs from ordinary support and hierarchical supervision.
