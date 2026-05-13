@@ -183,7 +183,56 @@ These provisions support continuity of administrative handling, service delivery
 - regional_implementation
 - institutional_actor
 - transition_provision
+## First Mapping Pass
 
+### A. Core Delegation Nodes
+- central delegating authority
+- delegated regional services
+- delegated competences
+- signature authority
+- execution authority
+- supervision after delegation
+
+### B. Center-to-Region Flow Nodes
+- competence flow from ministry center to regional level
+- implementation flow from central authority to regional services
+- administrative-act production at regional level
+- territorial exercise of delegated authority
+
+### C. Delegated Authority Content Nodes
+- approval-related delegated competences
+- execution-related delegated competences
+- signature-related delegated competences
+- practical handling of administrative matters
+- service-delivery relevance
+
+### D. Limits and Reservation Nodes
+- competences retained at central level
+- exclusions from delegation
+- conditional exercise of delegated authority
+- return of matters to central authority
+- boundary of regional action
+
+### E. Supervision and Reporting Nodes
+- continued central supervision
+- hierarchical oversight
+- reporting-line relevance
+- review and control relevance
+- dependency of regional exercise on central governance
+
+### F. Administrative Continuity Nodes
+- continuity of administrative handling
+- continuity of implementation chain
+- continuity of service delivery
+- bridge between formal ministry structure and regional execution
+
+### G. First Mapping Insight
+This delegation text maps the operational bridge between the central ministry structure and regional implementation by defining who delegates, who receives authority, what is exercised regionally, what remains central, and how supervision continues after delegation.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
 ## Working Status Update
 - decoding: first pass completed
 - coding: first pass completed
