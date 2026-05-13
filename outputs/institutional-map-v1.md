@@ -287,3 +287,38 @@ PD 77/2023 functions as the formal institutional separation decree between cultu
 
 ### First Institutional Logic
 PD 84/2019 restructures the Ministry of Culture and Sports into a dual-secretariat model, separating heritage governance from contemporary-culture governance while moving key financial and administrative support functions into direct ministerial control.
+## FEK B912 Delegation Text — First Institutional Mapping Layer
+
+### Core Delegation Nodes
+- central delegating authority
+- regional services as receiving actors
+- delegated competences
+- signature authority relevance
+- execution authority relevance
+
+### Center-to-Region Governance Nodes
+- competence flow from ministry center to regional services
+- implementation flow from central level to regional level
+- territorial exercise of delegated authority
+- bridge between formal ministry structure and regional execution
+
+### Supervision and Control Nodes
+- continued central supervision
+- hierarchical oversight after delegation
+- reporting-line relevance
+- review and control relevance
+
+### Limits and Reservation Nodes
+- retained central competences
+- exclusions from delegation
+- conditional regional exercise
+- boundary of delegated authority
+
+### Administrative Continuity Nodes
+- continuity of administrative handling
+- continuity of service delivery
+- continuity of implementation chain
+- operational support to regional execution
+
+### First Institutional Logic
+This delegation text adds the implementation layer of the pilot corpus by showing how authority moves from the ministry center to regional services without eliminating central supervision, control, or competence boundaries.
