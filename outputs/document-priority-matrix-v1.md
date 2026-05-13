@@ -38,5 +38,10 @@ This file records the first document-priority matrix for the AGRIR-Lab component
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: first pass completed
+### DOC-005 — PD 77/2023
+- status: uploaded
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
 ### Note
-PD 4/2018, Law 4858/2021, Law 4761/2020, and Law 5021/2023 are the first four documents of the pilot corpus to move from repository intake to document-level analytical processing.
+PD 4/2018, Law 4858/2021, Law 4761/2020, Law 5021/2023, and PD 77/2023 are the first five documents of the pilot corpus to move from repository intake to document-level analytical processing.
