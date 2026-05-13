@@ -391,3 +391,37 @@ PD 32/2022 organizes competence through financial administration, administrative
 
 ### First Competence Insight
 This internal-audit text organizes competence through audit mission, internal-control review, oversight architecture, and control-flow logic, making it a key text for understanding how assurance and oversight operate inside the ministry.
+## 2022 Internal Audit Circular — First Competence Mapping Layer
+
+### Internal Audit Workflow Competence
+- audit workflow relevance
+- audit planning competence
+- audit execution relevance
+- reporting competence
+- follow-up competence
+
+### Operational Audit Competence
+- operational clarification of the Internal Audit Unit role
+- implementation-level audit relevance
+- practical interpretation of audit activity
+- bridge between formal audit establishment and practical execution
+
+### Reporting and Follow-Up Competence
+- communication of audit findings
+- follow-up monitoring relevance
+- implementation-review relevance
+- relation between audit outputs and ministry leadership
+
+### Internal Control Relation Competence
+- relation between internal audit and internal control
+- distinction between audit review and ordinary administrative support
+- assurance relevance
+- control-flow relevance
+
+### Supervised Entities Competence
+- audit relevance of supervised entities
+- extension of audit logic beyond core ministry units
+- relation between ministry audit workflow and supervised-body oversight
+
+### First Competence Insight
+This internal-audit circular organizes competence through workflow, planning, execution, reporting, follow-up, and internal-control review, making it a key implementation-level text of the ministry’s audit architecture.
