@@ -322,3 +322,41 @@ PD 84/2019 restructures the Ministry of Culture and Sports into a dual-secretari
 
 ### First Institutional Logic
 This delegation text adds the implementation layer of the pilot corpus by showing how authority moves from the ministry center to regional services without eliminating central supervision, control, or competence boundaries.
+## PD 32/2022 — First Institutional Mapping Layer
+
+### Core Financial-Administrative Nodes
+- financial administration units
+- administrative support units
+- central support structures
+- service-level support structures
+- internal support hierarchy
+
+### Budgetary and Expenditure Nodes
+- budgetary handling relevance
+- expenditure-processing relevance
+- payment-flow relevance
+- internal financial-support distribution
+- internal financial-processing chain
+
+### Administrative Processing Nodes
+- document-flow relevance
+- internal administrative handling
+- approval-processing relevance
+- signature-processing relevance
+- responsibility chain in support matters
+
+### Support-Flow Nodes
+- support flow from central ministry level to service level
+- support relationship between ministerial units and implementation services
+- internal administrative support continuity
+- operational support relevance
+
+### Control-Flow Nodes
+- control flow in financial handling
+- control flow in administrative handling
+- supervision of support structures
+- internal review relevance
+- relation between support flow and control flow
+
+### First Institutional Logic
+PD 32/2022 adds the internal support architecture layer of the pilot corpus by showing how financial administration, administrative processing, support flow, and control are distributed across central and service-level ministry structures.
