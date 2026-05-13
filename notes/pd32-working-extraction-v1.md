@@ -101,3 +101,69 @@ The first decoding pass treats PD 32/2022 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Financial Architecture Logic
+**Proposed codes**
+- financial_administration
+- competence
+- supervision
+- institutional_actor
+
+**Rationale**
+These provisions define the units that handle financial administration, budgetary processing, expenditure flow, and the distribution of financial support roles.
+
+### Administrative Support Logic
+**Proposed codes**
+- competence
+- institutional_actor
+- support_flow
+- supervision
+
+**Rationale**
+These provisions identify the units responsible for administrative support, internal processing, document flow, and service support across the ministry structure.
+
+### Service-Level Distribution Logic
+**Proposed codes**
+- competence
+- institutional_actor
+- support_flow
+- control_flow
+
+**Rationale**
+These provisions structure the relationship between ministerial-level support units and service-level support units and clarify the distribution of internal support competences.
+
+### Approval and Signature Logic
+**Proposed codes**
+- competence
+- supervision
+- support_flow
+
+**Rationale**
+These provisions concern approval relevance, signature competence, internal administrative processing, and the responsibility chain for support and execution matters.
+
+### Control and Support-Chain Logic
+**Proposed codes**
+- control_flow
+- support_flow
+- supervision
+- financial_administration
+
+**Rationale**
+These provisions clarify the internal support chain, the control chain, and the supervision of financial and administrative handling.
+
+## First Coding Summary
+### High-frequency codes
+- competence
+- supervision
+- financial_administration
+
+### High-value specialized codes
+- support_flow
+- control_flow
+- institutional_actor
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
