@@ -165,3 +165,50 @@ These provisions distinguish internal audit from ordinary administrative support
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Core Internal Audit Nodes
+- Internal Audit Unit
+- ministry leadership relation
+- reporting-line relevance
+- audit mission relevance
+- internal control relevance
+
+### B. Institutional Placement Nodes
+- placement of the Internal Audit Unit inside the ministry structure
+- relation to central ministry authority
+- organizational independence relevance
+- bridge between governance structure and audit activity
+
+### C. Audit Function Nodes
+- audit competence
+- assurance relevance
+- advisory relevance
+- internal control review relevance
+- governance and risk-management relevance
+
+### D. Supervised Entities Nodes
+- supervised entities within audit relevance
+- relation between ministry oversight and entity-level audit relevance
+- extension of audit visibility beyond core ministry units
+
+### E. Oversight and Control Nodes
+- distinction between internal audit and ordinary administrative support
+- distinction between internal audit and hierarchical supervision
+- control-flow relevance
+- oversight-chain relevance
+- institutional assurance role
+
+### F. Architecture-Link Nodes
+- link between ministry governance and audit architecture
+- link between internal control and internal audit
+- link between support structures and control structures
+- role of internal audit inside the wider ministry system
+
+### G. First Mapping Insight
+This internal-audit text maps the oversight architecture of the ministry by showing where internal audit is placed, what role it performs, how it relates to leadership and supervised entities, and how it differs from ordinary support and hierarchical supervision.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
