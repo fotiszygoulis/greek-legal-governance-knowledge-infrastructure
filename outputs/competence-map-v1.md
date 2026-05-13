@@ -357,3 +357,37 @@ This delegation text reorganizes competence not by creating a new institutional 
 
 ### First Competence Insight
 PD 32/2022 organizes competence through financial administration, administrative support, support flow, control flow, and approval-signature chains, making it a key architecture text for understanding how the ministry operates internally.
+## FEK B204 Internal Audit Text — First Competence Mapping Layer
+
+### Internal Audit Competence
+- internal-audit competence
+- audit-mission relevance
+- assurance relevance
+- advisory relevance
+- internal-control review relevance
+
+### Institutional Placement Competence
+- placement of the Internal Audit Unit inside the ministry structure
+- reporting-line relevance
+- relation to ministry leadership
+- organizational independence relevance
+
+### Oversight Architecture Competence
+- oversight-architecture relevance
+- relation between audit and governance structure
+- relation between audit and risk-management logic
+- relation between audit and internal control environment
+
+### Supervised Entities Competence
+- audit relevance of supervised entities
+- extension of audit competence beyond core ministry units
+- relation between ministry oversight and entity-level audit relevance
+
+### Control-Flow Competence
+- control-flow relevance
+- distinction between audit and ordinary administrative support
+- distinction between audit and hierarchical supervision
+- institutional assurance role inside the ministry system
+
+### First Competence Insight
+This internal-audit text organizes competence through audit mission, internal-control review, oversight architecture, and control-flow logic, making it a key text for understanding how assurance and oversight operate inside the ministry.
