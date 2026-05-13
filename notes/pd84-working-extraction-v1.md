@@ -77,3 +77,75 @@ The first decoding pass treats PD 84/2019 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Article 10 — Culture Secretariat Reconfiguration
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+- delegation
+- transition_provision
+
+**Rationale**
+Article 10 establishes the General Secretariat of Culture and the General Secretariat of Contemporary Culture, redistributes the core service units of the Ministry, and redraws internal reporting lines.
+
+### Heritage-Governance Branch within Article 10
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+
+**Rationale**
+The heritage branch includes the General Directorate of Antiquities and Cultural Heritage, YSMA, the Central Archaeological Council and Museum Council secretariat, the Ephorates, the special regional services, and the General Directorate of Restoration, Museums and Technical Works.
+
+### Contemporary-Culture Branch within Article 10
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+
+**Rationale**
+The contemporary-culture branch is consolidated under the new General Secretariat of Contemporary Culture through transfer of the General Directorate of Contemporary Culture.
+
+### Minister-Centered Support Structure within Article 10
+**Proposed codes**
+- financial_administration
+- competence
+- supervision
+- transition_provision
+
+**Rationale**
+The direct subordination of the General Directorate of Financial Services and the General Directorate of Administrative Support and Electronic Governance to the Minister repositions support and control capacity at ministerial level.
+
+### Article 19 — Final and Transitional Provisions
+**Proposed codes**
+- transition_provision
+- competence
+- supervision
+
+**Rationale**
+Article 19 allows unit re-placement under existing general secretaries and preserves flexibility during the internal restructuring phase.
+
+### Article 20 — Entry into Force
+**Proposed codes**
+- transition_provision
+
+**Rationale**
+Article 20 determines the legal starting point of the reconfigured secretariat structure.
+
+## First Coding Summary
+### High-frequency codes
+- institutional_actor
+- competence
+- supervision
+
+### High-value specialized codes
+- transition_provision
+- delegation
+- financial_administration
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
