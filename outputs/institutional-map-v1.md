@@ -212,3 +212,40 @@ Law 4761/2020 positions ODAP as the operational and resource-management arm of t
 
 ### First Institutional Logic
 Law 5021/2023 positions museum NPDD reform within a broader governance transition that also connects indemnity mechanisms, ODAP adjustments, council composition, prosecutorial protection, and registry-based workforce governance.
+## PD 77/2023 — First Institutional Mapping Layer
+
+### Core Institutional Reconfiguration Nodes
+- Ministry of Culture
+- former Ministry of Culture and Sports
+- Ministry of Education, Religious Affairs and Sports
+- General Secretariat of Sports
+- post-June-2023 ministerial separation logic
+
+### Transferred Sports Governance Nodes
+- sports competences
+- sports-related service units
+- sports-related staff positions
+- sports-related supervised entities
+- legal-support unit for sports matters
+- press and public-relations support for sports matters
+- parliamentary-control support for sports matters
+- internal-audit support for sports matters
+- Professional Sports Committee secretariat support
+
+### Competence-Boundary Nodes
+- removal of sports branch from Ministry of Culture
+- redefinition of Ministry of Culture competence perimeter
+- separation of culture governance from sports governance
+- new post-transfer institutional boundary
+
+### Transitional Continuity Nodes
+- continuity of competent minister references
+- continuity of competent authority references
+- continuity of service-council jurisdiction
+- continuity of disciplinary jurisdiction
+- continuity of administrative support
+- continuity of financial support
+- continuity of budgetary burden during transition
+
+### First Institutional Logic
+PD 77/2023 functions as the formal institutional separation decree between culture and sports governance, redefining the Ministry of Culture as a culture-only ministry and preserving continuity during the transfer phase.
