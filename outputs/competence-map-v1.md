@@ -217,3 +217,39 @@ Law 4761/2020 distributes competence across governance, revenue generation, visi
 
 ### First Competence Insight
 Law 5021/2023 distributes competence across museum governance, collections and asset management, staffing transition, state-indemnity administration, and wider heritage-system amendment logic, making it a major restructuring and coordination law within the pilot corpus.
+## PD 77/2023 — First Competence Mapping Layer
+
+### Ministry-Level Competence Reset
+- Ministry of Culture competence after sports separation
+- removal of sports-policy competence
+- culture-only ministerial competence perimeter
+- post-June-2023 ministerial identity relevance
+
+### Sports-Transfer Competence
+- transfer of General Secretariat of Sports competence
+- transfer of sports-related service-unit competence
+- transfer of sports-related staff-position competence
+- transfer of sports-related supervised-entity competence
+
+### Support-Function Competence
+- transfer of legal-support competence for sports matters
+- transfer of press and public-relations competence for sports matters
+- transfer of parliamentary-control support competence for sports matters
+- transfer of internal-audit support competence for sports matters
+- transfer of Professional Sports Committee secretariat competence
+
+### Transitional Administrative Competence
+- continuity of competent-authority references
+- continuity of service-council jurisdiction
+- continuity of disciplinary jurisdiction
+- continuity of administrative support
+- continuity of financial support
+- continuity of budgetary support during transition
+
+### Internal Reallocation Competence
+- ministerial power to re-place units under existing general secretaries
+- internal placement flexibility after transfer
+- final transition-management competence
+
+### First Competence Insight
+PD 77/2023 reorganizes competence by removing the entire sports branch from the Ministry of Culture, redefining the ministry’s competence perimeter, and preserving administrative and financial continuity during the transition.
