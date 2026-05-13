@@ -92,3 +92,66 @@ The first decoding pass treats PD 77/2023 as:
 - decoding: in progress
 - coding: pending first pass
 - mapping: pending first pass
+## First Coding Pass
+
+### Article 1 — Ministry Renaming Logic
+**Proposed codes**
+- institutional_actor
+- competence
+- transition_provision
+
+**Rationale**
+Article 1 redefines the formal ministerial identity of the Ministry of Culture after the separation of the sports branch.
+
+### Article 4 — Transfer of Sports Governance
+**Proposed codes**
+- institutional_actor
+- competence
+- supervision
+- delegation
+- transition_provision
+
+**Rationale**
+Article 4 transfers the General Secretariat of Sports, related support units, staff positions, and supervised entities out of the Ministry of Culture, thereby redrawing competence boundaries.
+
+### Article 14 — Transitional Provisions
+**Proposed codes**
+- transition_provision
+- supervision
+- financial_administration
+- competence
+
+**Rationale**
+Article 14 regulates continuity of authority references, service-council jurisdiction, disciplinary jurisdiction, administrative support, financial support, and budgetary continuity during the transfer phase.
+
+### Article 15 — Final Transitional Placement Logic
+**Proposed codes**
+- transition_provision
+- competence
+- supervision
+
+**Rationale**
+Article 15 gives the minister flexibility to re-place transferred or reorganized units under existing general secretaries.
+
+### Article 16 — Entry into Force
+**Proposed codes**
+- transition_provision
+
+**Rationale**
+Article 16 determines the timing of institutional effect and therefore the legal start point of the reconfigured architecture.
+
+## First Coding Summary
+### High-frequency codes
+- institutional_actor
+- competence
+- transition_provision
+
+### High-value specialized codes
+- supervision
+- delegation
+- financial_administration
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: pending first pass
