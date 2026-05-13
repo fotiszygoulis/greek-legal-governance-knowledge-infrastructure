@@ -321,3 +321,39 @@ PD 84/2019 reorganizes internal ministerial competence by creating a dual-secret
 
 ### First Competence Insight
 This delegation text reorganizes competence not by creating a new institutional structure, but by redistributing the exercise of authority between the ministry center and regional services while preserving supervision and control.
+## PD 32/2022 — First Competence Mapping Layer
+
+### Financial Administration Competence
+- financial-administration competence
+- budgetary-handling relevance
+- expenditure-processing competence
+- payment-flow relevance
+- internal financial-support distribution
+
+### Administrative Support Competence
+- administrative-support competence
+- internal administrative-processing relevance
+- document-flow relevance
+- service-support relevance across the ministry structure
+
+### Support-Flow Competence
+- support flow from ministerial level to service level
+- support relationship between central units and implementation services
+- internal support continuity
+- operational support relevance
+
+### Control-Flow Competence
+- control flow in financial handling
+- control flow in administrative handling
+- supervision of support structures
+- internal review relevance
+- relation between support flow and control flow
+
+### Approval and Signature Competence
+- approval-processing relevance
+- signature competence relevance
+- internal responsibility-chain relevance
+- administrative-act processing relevance
+
+### First Competence Insight
+PD 32/2022 organizes competence through financial administration, administrative support, support flow, control flow, and approval-signature chains, making it a key architecture text for understanding how the ministry operates internally.
