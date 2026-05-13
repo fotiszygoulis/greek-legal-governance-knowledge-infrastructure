@@ -58,5 +58,10 @@ This file records the first document-priority matrix for the AGRIR-Lab component
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: first pass completed
+### DOC-N3 — FEK B204 Internal Audit Unit Establishment
+- status: uploaded
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
 ### Note
-PD 4/2018, Law 4858/2021, Law 4761/2020, Law 5021/2023, PD 77/2023, PD 84/2019, the FEK B912 delegation text, and PD 32/2022 are the first eight documents of the pilot corpus to move from repository intake to document-level analytical processing.
+PD 4/2018, Law 4858/2021, Law 4761/2020, Law 5021/2023, PD 77/2023, PD 84/2019, the FEK B912 delegation text, PD 32/2022, and the FEK B204 internal audit text are the first nine documents of the pilot corpus to move from repository intake to document-level analytical processing.
