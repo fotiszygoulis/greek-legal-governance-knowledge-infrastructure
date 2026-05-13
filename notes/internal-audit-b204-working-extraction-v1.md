@@ -37,3 +37,64 @@ Primary coding categories expected:
 
 ## Note
 This is the third working extraction file of the second analytical wave and will be expanded gradually.
+## First Decoding Pass
+
+### A. First Document-Level Priority Nodes
+- establishment of the Internal Audit Unit
+- institutional placement of the Internal Audit Unit
+- reporting-line relevance
+- audit mission relevance
+- internal control relevance
+- relationship with ministry leadership
+- relationship with supervised entities
+- oversight-chain relevance
+- distinction between support functions and audit/control functions
+- role of internal audit inside the wider ministry architecture
+
+### B. First Legal-Structural Extraction
+#### Internal Audit Unit Establishment Logic
+Initial decoding focus:
+- formal establishment of the Internal Audit Unit
+- legal basis of the unit
+- place of the unit inside the ministry structure
+- institutional identity of internal audit
+
+#### Institutional Placement Logic
+Initial decoding focus:
+- where the unit is placed administratively
+- relationship to the Minister or other central authority
+- reporting-line relevance
+- degree of organizational independence relevance
+
+#### Audit Mission and Function Logic
+Initial decoding focus:
+- audit competence relevance
+- internal control relevance
+- assurance and advisory relevance
+- scope of audit activity
+- relation to governance and risk management
+
+#### Supervised Entities Logic
+Initial decoding focus:
+- whether supervised entities fall within audit relevance
+- oversight-chain relation between ministry and supervised bodies
+- institutional reach of internal audit
+
+#### Oversight and Control Logic
+Initial decoding focus:
+- distinction between audit and ordinary administrative support
+- distinction between audit and hierarchical supervision
+- control-flow relevance
+- oversight architecture relevance
+
+### C. First Decoding Logic
+The first decoding pass treats this internal-audit text as:
+- an internal oversight architecture document
+- a control-flow clarification text
+- a document defining where audit sits inside the ministry structure
+- a bridge between governance structure and assurance/control activity
+
+### D. Working Status Update
+- decoding: in progress
+- coding: pending first pass
+- mapping: pending first pass
