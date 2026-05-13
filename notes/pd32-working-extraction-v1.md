@@ -167,3 +167,52 @@ These provisions clarify the internal support chain, the control chain, and the 
 - decoding: first pass completed
 - coding: first pass completed
 - mapping: pending first pass
+## First Mapping Pass
+
+### A. Core Financial-Administrative Nodes
+- financial administration units
+- administrative support units
+- central support structures
+- service-level support structures
+- internal support hierarchy
+
+### B. Budgetary and Expenditure Nodes
+- budgetary handling relevance
+- expenditure-processing relevance
+- payment-flow relevance
+- financial support distribution
+- internal financial-processing chain
+
+### C. Administrative Processing Nodes
+- document-flow relevance
+- internal administrative handling
+- approval-processing relevance
+- signature-processing relevance
+- responsibility chain in support matters
+
+### D. Support-Flow Nodes
+- support flow from central ministry level to service level
+- support relationship between ministerial units and implementation services
+- internal administrative support continuity
+- operational support relevance
+
+### E. Control-Flow Nodes
+- control flow in financial handling
+- control flow in administrative handling
+- supervision of support structures
+- internal review relevance
+- relation between support flow and control flow
+
+### F. Architecture-Link Nodes
+- bridge between ministry leadership and support services
+- bridge between central support structures and implementation structures
+- relation between formal structure and practical execution
+- support-chain relevance inside the wider ministry system
+
+### G. First Mapping Insight
+PD 32/2022 maps the internal financial and administrative architecture of the ministry by showing how support, budgetary handling, administrative processing, and control are distributed across central and service-level structures.
+
+## Working Status Update
+- decoding: first pass completed
+- coding: first pass completed
+- mapping: first pass completed
